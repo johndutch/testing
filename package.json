@@ -1,6 +1,5 @@
 {
   "scripts": {
-    "webpack": "webpack",
     "test": "jest"
   },
   "devDependencies": {
